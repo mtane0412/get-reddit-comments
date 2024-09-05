@@ -9,9 +9,9 @@ load_dotenv()
 
 # Reddit APIの認証情報を入力
 reddit = praw.Reddit(
-    client_id=os.environ['CLIENT_ID'],      # ここにclient_idを入力
-    client_secret=os.environ['CLIENT_SECRET'],  # ここにclient_secretを入力
-    user_agent=os.environ['USER_AGENT']     # ここにuser_agentを入力
+    client_id=os.environ['CLIENT_ID'],
+    client_secret=os.environ['CLIENT_SECRET'],
+    user_agent=os.environ['USER_AGENT']
 )
 
 # スレッドURLまたはIDを指定してコメントを取得
