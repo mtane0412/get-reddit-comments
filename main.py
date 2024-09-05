@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from dotenv import load_dotenv
 
-# .envファイルの内容を読み込見込む
+# .envファイルの内容を読み込む
 load_dotenv()
 
 
