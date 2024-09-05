@@ -1,6 +1,6 @@
-# Reddit Comment Scraper
+# get Reddit comments for Talk to the City
 
-This script allows you to scrape comments from a specific Reddit post and save them in a CSV file. It uses the Reddit API through the `praw` library and stores the results in a `reddit-comments.csv` file.
+This script allows you to scrape comments from a specific Reddit post and save them to a CSV file for Talk to the City, using the Reddit API through the praw library and saving the results to the reddit-comments.csv file The results are saved in the reddit-comments.csv file.
 
 ## Features
 - Scrapes all comments (including nested ones) from a specified Reddit post.
