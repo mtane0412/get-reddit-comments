@@ -26,8 +26,8 @@ pip install praw pandas python-dotenv
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/reddit-comment-scraper.git
-   cd reddit-comment-scraper
+   git clone https://github.com/your-username/get-reddit-comments.git
+   cd get-reddit-comments
    ```
 
 2. **Create a Reddit Application**:
